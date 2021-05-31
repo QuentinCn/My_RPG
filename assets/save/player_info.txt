@@ -1,0 +1,3 @@
+lm
+assets/config_file/Actor3.txt
+assets/img/Character3.png
